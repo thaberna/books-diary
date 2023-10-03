@@ -1,9 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # books-diary
+React (Vite) + TailwindCSS.
+
+En BooksDiary puedes ir agregando tus libros leídos, mostrando el listado de los insertados y con la posibilidad de poder marcar como favorito cada uno de ellos. Los datos se guardan en la memoria local del navegador (localStorage).
